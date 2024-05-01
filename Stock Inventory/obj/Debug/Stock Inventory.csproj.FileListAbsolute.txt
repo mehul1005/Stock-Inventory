@@ -1,0 +1,30 @@
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\Stock Inventory.exe.config
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\Stock Inventory.exe
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\Stock Inventory.pdb
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\Krypton.Toolkit.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\Krypton.Toolkit.xml
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.Properties.Resources.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csproj.GenerateResource.cache
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csproj.CopyComplete
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.exe
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.pdb
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.Form1.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.AddNewStockForm.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.AddStockOutForm.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.InwardsDataForm.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.OutwardsDataForm.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\obj\Debug\Stock_Inventory.InAndOutReportForm.resources
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\MetroFramework.Design.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\MetroFramework.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.pdb
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.xml
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MG\source\repos\Stock Inventory\Stock Inventory\bin\Debug\LiveCharts.Wpf.xml
